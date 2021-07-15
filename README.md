@@ -1,4 +1,4 @@
-# Guide
+# What the hell is this? well 
 
 the script contanes from 2 parts :
 
