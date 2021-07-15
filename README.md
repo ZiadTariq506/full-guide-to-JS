@@ -9,3 +9,6 @@ code are javascript lines so u deal with it
 part 2 is the JS lines 
 
 I recommend this some one who know JS and want to remmber it or so .
+
+## hi9sdfkjkhdgshsdg
+fksdhjioshghsia
