@@ -270,11 +270,11 @@ var tariq = 10;
 // let option 
 // عاوز تحتفظ بقيمة المنغير نسنحدم let  , مش عاوز نستخدم var .
 
-let fadya = 7;
-for(let fadya = 7;fadya>0;fadya--){
-    console.log(fadya);
+let fady = 7;
+for(let fady = 7;fady>0;fady--){
+    console.log(fady);
 }
-console.log(fadya);
+console.log(fady);
 
 //const (constent) use to prevent the overwrite in the database
 const PI = 3.14;
